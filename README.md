@@ -63,7 +63,7 @@ To transform complex global development data into **meaningful, interactive, and
 - Electricity Usage by Sector (Agriculture, Industry, Domestic)
 - Top Electricity Consuming Countries
 
-
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Electricity%20%26%20Freshwater.png)
 
 ### 5. Finance
 - Central Government Debt
