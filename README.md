@@ -8,6 +8,8 @@
 
 This project was developed as part of a **Power BI Dashboard Competition**, where we designed a **multi-page interactive dashboard** using the **World Development Indicators (WDI)** dataset to analyze global development trends across key sectors.
 
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Main%20Dashboard.png)
+
 The dashboard delivers a **complete sector-wise story of the world** — from **Population and Healthcare to Education, Electricity, Finance, and Trade**.
 
 ---
@@ -36,11 +38,15 @@ To transform complex global development data into **meaningful, interactive, and
 - Urban vs Rural Population
 - Population Trends Over Time
 
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Population.png)
+
 ### 2. Healthcare Analysis
 - Deaths due to Road Injuries & Chronic Diseases
 - Suicide Death % Trends
 - Health Expenditure Over Time
 - Gender-wise Healthcare Analysis
+
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Healthcare.png)
 
 ### 3. Education & Unemployment
 - Male vs Female Unemployment Rate
@@ -48,6 +54,8 @@ To transform complex global development data into **meaningful, interactive, and
 - Education Level vs Unemployment
 - Top 15 Countries by Education Expenditure
 - Unemployment Trends by Year
+
+
 
 ### 4. Electricity & Fresh Water
 - Fresh Water Usage Over Time
@@ -62,11 +70,16 @@ To transform complex global development data into **meaningful, interactive, and
 - Top Tax Revenue Countries
 - Top Countries by Government Debt
 
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Finance.png)
+
 ### 6. Trade
 - Import vs Export Trends
 - Fuel Imports vs Exports
 - Trade Type Analysis
 - Top Trading Countries
+
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Trade.png)
+
 
 ---
 
