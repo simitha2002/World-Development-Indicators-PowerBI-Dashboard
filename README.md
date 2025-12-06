@@ -55,13 +55,15 @@ To transform complex global development data into **meaningful, interactive, and
 - Top 15 Countries by Education Expenditure
 - Unemployment Trends by Year
 
-
+![Image Alt](https://github.com/simitha2002/World-Development-Indicators-PowerBI-Dashboard/blob/main/Education%20%26%20Unemployment.png)
 
 ### 4. Electricity & Fresh Water
 - Fresh Water Usage Over Time
 - Top 10 Countries by Fresh Water Availability
 - Electricity Usage by Sector (Agriculture, Industry, Domestic)
 - Top Electricity Consuming Countries
+
+
 
 ### 5. Finance
 - Central Government Debt
