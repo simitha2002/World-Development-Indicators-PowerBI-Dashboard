@@ -1,3 +1,4 @@
+![Winner](https://img.shields.io/badge/Award-🥇%20First%20Prize-gold.svg)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-World%20Development%20Indicators-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Competition%20Project-success.svg)
@@ -107,6 +108,20 @@ To transform complex global development data into **meaningful, interactive, and
 ## 🏆 Project Type
 
 Power BI Dashboard Competition | Data Analytics | Visualization | Global Indicators Analysis
+
+---
+
+## 🏆 Achievement & Certification
+
+🥇 **First Prize Winner – Power BI Dashboard Competition**  
+Awarded by **Futurix Edu Tech Academy** for outstanding performance in building a **sector-wise interactive Power BI dashboard** using the **World Development Indicators (WDI)** dataset.
+
+✅ Recognition Includes:
+- **Official Certificate of Achievement**
+- **Cash Prize**
+- **Special Judge Appreciation for Dashboard Clarity & Insightful Storytelling**
+
+📅 **Award Date:** October 2025
 
 ---
 
